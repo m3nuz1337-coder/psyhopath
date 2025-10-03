@@ -1,2 +1,2 @@
-# psyhopath
+# psyhopath github
 hello
